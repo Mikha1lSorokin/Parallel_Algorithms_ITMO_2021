@@ -24,6 +24,6 @@ int main(int argc, char** argv)
         previous_symbol = new_symbol;
         i++;
     }
-    cout << "Number of words:" << w_num << endl;
+    cout << "Total amount of words:" << w_num << endl;
     return 0;
 }
